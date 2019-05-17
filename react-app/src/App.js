@@ -1,10 +1,9 @@
 import React, { Component } from 'react';
 import { BrowserRouter as Router, Route } from "react-router-dom";
 
-import Hello from './Hello.jsx';
-import GoodBye from './GoodBye.jsx';
-import NavigationBar from './NavigationBar.jsx';
-
+import GoodBye from './GoodBye';
+import Hello from './Hello';
+import NavigationBar from './NavigationBar';
 
 class App extends Component {
     render() {

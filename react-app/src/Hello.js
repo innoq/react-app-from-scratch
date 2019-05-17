@@ -1,6 +1,6 @@
 import React, { Component } from 'react';
 
-import HelloWorldText from './HelloWorldText.jsx';
+import HelloWorldText from './HelloWorldText.js';
 
 class Hello extends Component {
     render() {
